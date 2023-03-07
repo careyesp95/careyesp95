@@ -1,6 +1,8 @@
 ### Hi, I´m Cristian Reyes 👋 :technologist:
 
-I am engineer and full stack web development, I am passionate about disruptive technologies that emerge every day. I love to solve problems because when solving them I feel a happiness that motivates me to improve and want to learn more and more, it fascinates me to meet new challenges and more when it comes to learning new technologies, for me, it is a tool that I acquire to face a problem specific. I currently participate in development groups that apply agile methodologies such as: SCRUM, which allows us to be more efficient as a team.
+Full stack developer and Electronic engineer, with experience like a team leader, backend and frontend developer using agile methodologies like: SCRUM.
+
+I'm a passionate person for the technology and the feel of emotion when I learn new ways to solve challenges, I have tech skills like: JavaScript, Python, Java, NodeJs, ReactJs, ReduxJs, Expess, Sequelize, PostgreSQL and Sql. On the other hand, I characterize myself to be a creative person and fast learning of way efficient, I have developed aptitudes of adaptability, time management, assertive communication, oriented-detail and teamwork.
 
 
 
